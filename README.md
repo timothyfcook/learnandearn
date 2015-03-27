@@ -15,6 +15,8 @@ To edit documentation or the roadmap, switch to the gh-pages branch.
 
 ## Install
 
+This project depends on Ruby and Postgresql, please see instructions for your system to get these dependencies installed.
+
 ###Linux (using apt-get)
 ```bash
 $ sudo su root
@@ -40,7 +42,7 @@ $ rails server #open browser @ localhost:3000
 coming soon
 
 ###Mac (using brew)
-coming soon
+
 
 ## License
 MIT
