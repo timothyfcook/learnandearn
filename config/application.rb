@@ -26,5 +26,29 @@ module Learn
       'Access-Control-Allow-Origin' => '*',
       'Access-Control-Request-Method' => '*'
     })
+
+    config.topics = [{
+      short_name: 'Coding & Games'
+    }, {
+      short_name: 'Community Action'
+    }, {
+      short_name: 'Designing + Making'
+    }, {
+      short_name: 'Earth & Science'
+    }, {
+      short_name: 'Media'
+    }, {
+      short_name: 'Numbers'
+    }, {
+      short_name: 'Performance'
+    }, {
+      short_name: 'Sports & Wellness'
+    }, {
+      short_name: 'Storytelling'
+    }, {
+      short_name: 'Work & Career'
+    }, {
+      short_name: 'Zoology'
+    }]
   end
 end

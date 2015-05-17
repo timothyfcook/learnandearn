@@ -7,12 +7,13 @@ angular.module('caac.explore.controller', [
   'caac.shared.copyright.directive',
   'caac.explore.topics.directive',
   'caac.explore.cards.directive',
-  'caac.opportunities.service'
+  'caac.opportunities.service',
+  'caac.topics.service'
 ]).controller('ExploreController', ['$routeParams', '$rootScope', '$scope', 'jQueryService', 'TitleService', 'ConfService',
-  'OpportunitiesService', '$timeout', '$window', '$location',
+  'OpportunitiesService', 'TopicsService', '$timeout', '$window', '$location',
   function(
-    $routeParams, $rootScope, $scope, jQueryService, TitleService, ConfService, 
-    OpportunitiesService, $timeout, $window, $location) {
+    $routeParams, $rootScope, $scope, jQueryService, TitleService, ConfService,
+    OpportunitiesService, TopicsService, $timeout, $window, $location) {
     var self = $scope;
 
     self.setSearchContext = function() {
@@ -50,7 +51,30 @@ angular.module('caac.explore.controller', [
     };
 
     self.setTopicsList = function() {
-      self.topics = ConfService.get('TOPICS'); //panel on the left
+      var steps = {
+        start: function() {
+          self.loadingStatus++;
+          return TopicsService.selectTopics();
+        },
+
+        results: function(res) {
+          self.topics = res.data.topics || [];
+          return;
+        },
+
+        error: function(e) {
+          alert(e.data.err);
+        },
+
+        done: function() {
+          self.loadingStatus--;
+        }
+      };
+
+      steps.start()
+        .then(steps.results)
+        .catch(steps.error)
+        .finally(steps.done);
     };
 
     self.getOpportunitiesByTopic = function(term, options) {
