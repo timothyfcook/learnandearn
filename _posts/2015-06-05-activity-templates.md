@@ -10,9 +10,11 @@ order: 2
 
 ###All Activity Templates###
 
-Download the [PD101_all_templates.pdf]({{ creator_url }}/PD101_all_templates.pdf) file
+Download the [PD101_all_templates.pdf]({{site.creator_url}}/PD101_all_templates.pdf) file
 
 ###Individual Activity Templates###
+
+Download the templates individually:
 
 1.  Value Creation [Download]({{site.creator_url}}/01_value_creation.pdf)
 2.  Network Mapping [Download]({{site.creator_url}}/02_network_mapping.pdf)
@@ -25,3 +27,5 @@ Download the [PD101_all_templates.pdf]({{ creator_url }}/PD101_all_templates.pdf
 9.  Applicant Persona [Download]({{site.creator_url}}/09_applicant_persona.pdf)
 10. Storyboard [Download]({{site.creator_url}}/10_storyboard.pdf)
 11.  One-Year Plan [Download]({{site.creator_url}}/11_one_year_plan.pdf)
+
+Or download a [.zip file]({{site.creator_url}}/PD101_PDFs.zip) that contains a folder containing all of the individual PDFs.
