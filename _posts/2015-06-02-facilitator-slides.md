@@ -1,10 +1,16 @@
 ---
 layout: page
-title: "Facilitator Slides
+title: "Facilitator Materials"
 category: doc
 date: 2015-06-02 08:55:36
 order: 1
 ---
+
+
+
+###Facilitator Guide###
+
+##### Download the [Facilitator Guide]({{site.creator_url}}/PD101_facilitator_guide.pdf). #####
 
 
 ###Facilitator Slidedeck###

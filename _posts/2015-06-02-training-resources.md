@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Training Resources"
+category: doc
+date: 2015-06-02 08:59:36
+order: 3
+---
+
+
+###Training Resources###
+
+In case you have facilitators on your team who were unable to attend our training, you can download some of the training resources here.
+
+##### Download the [PD101 Training Slides]({{site.creator_url}}/PD101_training_slidedeck.ppt). #####
+
+##### Go to the [PD101 Training Video](http://vimeo.com/lumainstitute/PD101_training). #####
