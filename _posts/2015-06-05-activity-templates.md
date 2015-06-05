@@ -1,18 +1,18 @@
 ---
 layout: page
 title: "Activity Templates"
-category: doc
+category: resources
 date: 2015-06-02 08:56:36
 order: 2
 ---
 
 
 
-###All Activity Templates###
+###All PD101 Activity Templates###
 
 Download the [All Templates]({{site.creator_url}}resources/PD101_all_templates.pdf) file.
 
-###Individual Activity Templates###
+###Individual PD101 Activity Templates###
 
 Download the templates individually:
 
