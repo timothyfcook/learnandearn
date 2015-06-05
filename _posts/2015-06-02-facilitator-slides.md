@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Facilitator Materials"
-category: doc
+category: resources
 date: 2015-06-02 08:55:36
 order: 1
 ---

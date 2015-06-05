@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Training Resources"
-category: doc
+category: resources
 date: 2015-06-02 08:59:36
 order: 3
 ---
