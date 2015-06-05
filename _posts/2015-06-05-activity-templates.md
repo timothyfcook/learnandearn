@@ -10,7 +10,7 @@ order: 2
 
 ###All Activity Templates###
 
-Download the [PD101_all_templates.pdf]({{site.creator_url}}/PD101_all_templates.pdf) file
+Download the [All templates]({{site.creator_url}}/resources/PD101_all_templates.pdf) file.
 
 ###Individual Activity Templates###
 
