@@ -1,11 +1,11 @@
 # Site titles and logo. This is used in _includes/header.html
-title: 'City as a Campus'
-subtitle: 'An open-source platform for organizing learning communities.'
-logo: '/img/caac_logo.png'
+title: 'Learn and Earn Resources'
+subtitle: 'A directory of facilitator resources for the Learn and Earn professional development curriculum.'
+logo: '/img/learn_and_earn.png'
 
 # Site Creator #
-creator: 'City as a Campus'
-creator_url: 'http://cityasacampus.org/'
+creator: 'Learn and Earn'
+creator_url: 'http://learnandearnpd.org/'
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
