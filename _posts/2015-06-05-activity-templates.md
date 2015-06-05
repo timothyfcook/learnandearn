@@ -10,7 +10,7 @@ order: 2
 
 ###All Activity Templates###
 
-Download the [All templates]({{site.creator_url}}/resources/PD101_all_templates.pdf) file.
+Download the [All Templates]({{site.creator_url}}/resources/PD101_all_templates.pdf) file.
 
 ###Individual Activity Templates###
 
@@ -28,4 +28,4 @@ Download the templates individually:
 10. Storyboard [Download]({{site.creator_url}}/resources/10_storyboard.pdf)
 11.  One-Year Plan [Download]({{site.creator_url}}/resources/11_one_year_plan.pdf)
 
-Or download a [.zip file]({{site.creator_url}}/PD101_PDFs.zip) that contains a folder containing all of the individual PDFs.
+Or download a [.zip file]({{site.creator_url}}/resources/PD101_PDFs.zip) that contains a folder containing all of the individual PDFs.
