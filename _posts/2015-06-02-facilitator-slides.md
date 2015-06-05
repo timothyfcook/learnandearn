@@ -17,6 +17,6 @@ order: 1
 
 As an additional resource when you are running your program, we have created a slidedeck full of prompts, participant instructions, and materials. The "Learn & Earn PD101" program is designed to run without slides, but this deck may be useful for certain locations depending on the size of their group and other variables.
 
-##### Download the PD101 Facilitator Slidedeck:[Powerpoint File]({{site.creator_url}}/resources/PD101_facilitator_slidedeck.ppt). #####
+##### Download the PD101 Facilitator Slidedeck: [Powerpoint File]({{site.creator_url}}/resources/PD101_facilitator_slidedeck.ppt). #####
 
-##### Download the PD101 Facilitator Slidedeck:[PDF File]({{site.creator_url}}/resources/PD101_facilitator_slidedeck.pdf). #####
+##### Download the PD101 Facilitator Slidedeck: [PDF File]({{site.creator_url}}/resources/PD101_facilitator_slidedeck.pdf). #####
