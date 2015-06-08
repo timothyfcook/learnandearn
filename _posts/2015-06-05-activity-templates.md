@@ -28,4 +28,9 @@ Download the templates individually:
 10. Storyboard [Download]({{site.creator_url}}resources/10_storyboard.pdf)
 11.  One-Year Plan [Download]({{site.creator_url}}resources/11_one_year_plan.pdf)
 
+*Resume Template .Doc file for Resume Creator [Download]({{site.creator_url}}resources/resume_template.doc)
+
 Or download a [.zip file]({{site.creator_url}}resources/PD101_all_templates.zip) that contains a folder containing all of the individual PDFs.
+
+You can also download a folder containing examples of all of the templates, as filled out by a participant. [Download]({{site.creator_url}}resources/PD101_all_template_examples.zip)
+
