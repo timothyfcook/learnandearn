@@ -6,7 +6,9 @@ date: 2015-06-02 08:56:36
 order: 2
 ---
 
+These activity templates represent the blank worksheets for each of the interactive poritions of the Professional Development 101 curriculum. Most organizations have been provided with a printed set of materials, but if you need to print additional copies or need digital versions*, you can download those here. A set of filled out examples is also available below.
 
+*Note: If you want to do the "Resume Creator" flex activity, you will need the digital resume_template.doc file found below.
 
 ###All PD101 Activity Templates###
 

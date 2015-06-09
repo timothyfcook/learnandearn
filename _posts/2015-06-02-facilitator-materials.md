@@ -6,7 +6,7 @@ date: 2015-06-02 08:55:36
 order: 1
 ---
 
-
+Before you run your Professional Development program, be sure to look through the facilitator materials. These are the materials you will use during your program to help walk you and your participants through each activity. The <strong>Facilitator Guide</strong> is a step-by-step walkthrough that explain each activity and their scheduled time. The <strong>Facilitator Slidedeck</strong> provides live instructions and visual prompts for the group while you are running the program.
 
 ###PD101 Facilitator Guide###
 
