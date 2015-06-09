@@ -10,4 +10,4 @@ In case you have facilitators on your team who were unable to attend our trainin
 
 ##### Download the [PD101 Training Slides]({{site.creator_url}}resources/PD101_training_slidedeck.pdf). #####
 
-##### Go to the [PD101 Training Video](http://vimeo.com/lumainstitute/PD101_training). #####
+##### Training video coming soon. #####
