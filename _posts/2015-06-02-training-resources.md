@@ -48,8 +48,3 @@ In case you have facilitators on your team who were unable to attend our trainin
 
 ##### Section III: Envisioning the Future
 <iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/7c9bdbb21a1be8ccf4/7edf33da183154df?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
-
-
-
-007: Resources Wrap Up
-<iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/a09bdbb21a1be8cf28/00fa932902afc118?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
