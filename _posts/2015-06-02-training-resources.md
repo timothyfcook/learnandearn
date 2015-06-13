@@ -11,15 +11,15 @@ In case you have facilitators on your team who were unable to attend our trainin
 ##### Download the [PD101 Training Slides]({{site.creator_url}}resources/PD101_training_slidedeck.pdf). #####
 
 
-#### Program Orientation Videos
+### Program Orientation Videos
 
 ##### PD 101 Program Overview
 <iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/709bdbb21a1be9caf8/07e2cfa63fb75f08?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
 
-##### Badges Orientation [008 - Badge Talk Only.mp4]
+##### Badges Orientation
 <iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/709bdbb21a1ce2c6f8/7a85b8928a129c58?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
 
-##### Program Evaluation Orientation [aka 009 - Post Lunch.mp4]
+##### Program Evaluation Orientation
 <iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/489bdbb21a1ce3c1c0/03b8459ec6e34127?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
 
 ##### Wrap Up + Additional Resources
@@ -27,7 +27,7 @@ In case you have facilitators on your team who were unable to attend our trainin
 
 
 
-#### Curriculum Instruction Videos
+### Curriculum Instruction Videos
 
 ##### Section I: Introduction
 <iframe class='sproutvideo-player' src='//videos.sproutvideo.com/embed/d49bdbb21a1be6c05c/a11f2e84570c1d07?type=sd' width='630' height='354' frameborder='0' allowfullscreen></iframe>
