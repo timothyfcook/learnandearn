@@ -3,7 +3,7 @@ layout: page
 title: "Training Resources"
 category: resources
 date: 2015-06-02 08:59:36
-order: 3
+order: 
 ---
 
 In case you have facilitators on your team who were unable to attend our training, you can download some of the training resources here. Use these to refresh yourself or train new facilitators.

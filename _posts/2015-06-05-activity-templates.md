@@ -3,7 +3,7 @@ layout: page
 title: "Activity Templates"
 category: resources
 date: 2015-06-02 08:56:36
-order: 2
+order: 
 ---
 
 These activity templates represent the blank worksheets for each of the interactive poritions of the Professional Development 101 curriculum. Most organizations have been provided with a printed set of materials, but if you need to print additional copies or need digital versions*, you can download those here. A set of filled out examples is also available below.

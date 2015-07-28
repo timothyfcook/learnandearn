@@ -3,6 +3,10 @@ layout: default
 title: "Learn and Earn Resources"
 ---
 
+***Resources are currently unavailable. Please contact the Luma Institute to inquire about the Learn and Earn curriculum.***
+
+-------
+
 This is a basic resource site for the Learn and Earn Professional Development curriculum. Providers can find the following resources:
 
 - PD101 Activity templates
