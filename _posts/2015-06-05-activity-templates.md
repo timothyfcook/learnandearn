@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Activity Templates"
-category: resources
+category: 
 date: 2015-06-02 08:56:36
 order: 
 ---

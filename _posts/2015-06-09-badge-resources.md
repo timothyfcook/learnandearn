@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "City of Learning & Digital Badge Resources"
-category: resources
+category: 
 date: 2015-06-09 08:59:36
 order: 
 ---
